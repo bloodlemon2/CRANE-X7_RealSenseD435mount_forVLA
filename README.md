@@ -6,6 +6,11 @@
  - VLA(Vision-Language-Action Model)用の手先カメラのマウントとして使用
   - 利点: アームの手先で物体を把持していることをカメラ画像から判断可能
    - VLAでは画像で状態を判断できることが重要
+<img width="1280" height="720" alt="after1_Color" src="https://github.com/user-attachments/assets/2b4c28ba-698a-4cbb-ba17-4e654e35e6f2" />
+<img width="1280" height="720" alt="before1_Color" src="https://github.com/user-attachments/assets/93d5b512-e17e-42fd-aa37-97bc5d38572c" />
+<img width="4624" height="3472" alt="PXL_20260828_062021122" src="https://github.com/user-attachments/assets/30f984dc-8881-4d8a-b2b5-603f6cb14f4a" />
+<img width="4624" height="3472" alt="PXL_20260828_062946066" src="https://github.com/user-attachments/assets/2d15daec-71cd-4f5f-a83a-44a85238b349" />
+
 
 ## 注意点
  - スケールが10倍違うため10分の1にして印刷してください.
