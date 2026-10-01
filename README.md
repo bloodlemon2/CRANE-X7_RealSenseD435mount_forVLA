@@ -1,11 +1,11 @@
 # CRANE-X7_RealSenseD435mount_forVLA
  - CRANE-X7のVLA向けRealSense D435マウント
-  - RT社の[公式CADデータ](https://github.com/rt-net/crane_x7_Hardware/tree/master)を自身が改変したものです.
+ - RT社の[公式CADデータ](https://github.com/rt-net/crane_x7_Hardware/tree/master)を自身が改変したものです.
 
 ## 用途
  - VLA(Vision-Language-Action Model)用の手先カメラのマウントとして使用
-  - 利点: アームの手先で物体を把持していることをカメラ画像から判断可能
-   - VLAでは画像で状態を判断できることが重要
+     - 利点: アームの手先で物体を把持していることをカメラ画像から判断可能
+         - VLAでは画像で状態を判断できることが重要
 
 ### 外観とカメラの視点（公式のマウント）
 <img width="2751" height="2244" alt="PXL_20260828_062946066_cut" src="https://github.com/user-attachments/assets/ae4c2b9d-9a44-42c2-8d9d-9196fd14a8c0" />
