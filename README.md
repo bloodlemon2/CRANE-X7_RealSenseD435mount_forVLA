@@ -7,7 +7,7 @@
      - 利点: アームの手先で物体を把持していることをカメラ画像から判断可能
          - VLAでは画像で状態を判断できることが重要
 
-| 掴んでるときの外観 | 掴んでるときの手元カメラ画像 |
+| 掴んでいるときの外観 | 掴んでいるときの手元カメラ画像 |
 | ------------------------------------ | --------------------------------------------- |
 | <img width="2751" height="2244" alt="PXL_20260828_062946066_cut" src="https://github.com/user-attachments/assets/ae4c2b9d-9a44-42c2-8d9d-9196fd14a8c0" /> | <img width="1280" height="720" alt="before1_Color" src="https://github.com/user-attachments/assets/93d5b512-e17e-42fd-aa37-97bc5d38572c" /> |
 | <img width="3569" height="2565" alt="PXL_20260828_062021122_cut" src="https://github.com/user-attachments/assets/a22849ea-fc7a-4d0f-8e39-9764767b04ea" /> | <img width="1280" height="720" alt="after1_Color" src="https://github.com/user-attachments/assets/2b4c28ba-698a-4cbb-ba17-4e654e35e6f2" /> |
